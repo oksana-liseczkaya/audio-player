@@ -290,30 +290,3 @@ ul li.playing {
     pointer-events: none;
     color: var(--violet);
 }
-
-footer {
-    width: 100%;
-    height: 100px;
-    background-color: #515C6F;
-    bottom: 0;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.school {
-    background-image: url('./icons/rs_school_js.svg');
-    background-repeat: no-repeat;
-    width: 80px;
-    height: 20px;
-    cursor: pointer;
-}
-
-a {
-    text-decoration: none;
-    color: #ffffff;
-}
-
-p {
-    color: #ffffff;
-}
